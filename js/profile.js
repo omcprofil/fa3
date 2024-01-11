@@ -12,7 +12,7 @@ function chart(canvas, data) {
     canvas.height = HEIGHT
 }
 
-// chart(document.getElementById('canvas'))
+chart(document.getElementById('canvas'))
 
 const HEAD = document.createElement('tr')
 HEAD.innerHTML = `<th>Неделя</th> 

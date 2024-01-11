@@ -33,8 +33,7 @@ p {
 
 .gant {
     width: 962px;
-    /* height: 250px; */
-    height: 0;
+    height: 250px;
     margin: 0 auto;
 }
 
